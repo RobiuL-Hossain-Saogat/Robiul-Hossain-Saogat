@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Robiul Hossain Saogat</h1>
-<h3 align="center">A passionate CSE student & Web Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate CSE student & Web Developer</h3>
 
 <!-- Typing SVG -->
 <p align="center">
